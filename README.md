@@ -7,8 +7,8 @@
 - [Key Insights and Findings](#key-insights-and-findings)
 - [Recommendations](#recommendations)
 - [Tools Used for the project](#tools-used-for-the-project)
-- [Resource](#resource)
 - [How to Navigate the Dashboard](#how-to-navigate-the-dashboard)
+- [Resource](#resource)
 
 ## Project Overview
 This project involves a comprehensive data analysis of transactional sales data for Maven Roasters, a coffee shop franchise in New York City (NYC).
