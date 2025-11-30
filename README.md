@@ -6,13 +6,13 @@ This project involves a comprehensive data analysis of transactional sales data 
 The primary goal was to transform raw sales data (January - June 2023) into a dynamic, interactive dashboard. This dashboard serves as a strategic tool for franchise owners to better understand customer purchase behaviour, identify key sales patterns, optimise operations, and uncover growth opportunities across their three NYC locations (Astoria, Hell's Kitchen, and Lower Manhattan).
 
 ## Business Problem
-*Situation: Recently became a franchise owner of Maven Roasters, a coffee shop chain with three locations in New York City.
-*Goals: Transform collected transactional data (Jan-Jun 2023) into a dynamic dashboard for franchise owners to identify patterns, trends, and opportunities.
-*Objectives: 
---Profile and prepare the raw data for analysis (ETL).
--- Explore the data using PivotTables (Initial Analysis).
---Build a dynamic, user-friendly dashboard to visualize trends.
-
+- Situation: Recently became a franchise owner of Maven Roasters, a coffee shop chain with three locations in New York City.
+- Goals: Transform collected transactional data (Jan-Jun 2023) into a dynamic dashboard for franchise owners to identify patterns, trends, and opportunities.
+- Objectives: 
+            1. Profile and prepare the raw data for analysis (ETL).
+            2. Explore the data using PivotTables (Initial Analysis).
+            3. Build a dynamic, user-friendly dashboard to visualize trends.
+ 
 ## Key Insights and Findings:
 The analysis and resulting dashboard revealed several critical insights:
 1. Revenue Growth & Peaks: Total revenue saw a significant upward trend from January to June, with the highest sales volume recorded in June ($166,485.88).
