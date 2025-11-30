@@ -8,6 +8,7 @@
 - [Recommendations](#recommendations)
 - [Tools Used for the project](#tools-used-for-the-project)
 - [Resource](#resource)
+- [How to Navigate the Dashboard](#how-to-navigate-the-dashboard)
 
 ## Project Overview
 This project involves a comprehensive data analysis of transactional sales data for Maven Roasters, a coffee shop franchise in New York City (NYC).
@@ -43,5 +44,11 @@ Based on the analysis of the sales data, the following actionable strategies are
 - Analysis & Visualization: Microsoft Excel.
 - Data Preparation: Data cleaning, transformation, and structure were primarily handled within Excel.
 - Concepts: Dynamic Slicers, Calculated Fields, PivotTables, and Advanced Charting.
+### How to Navigate the Dashboard
+#### ***The dashboard is designed for interactive exploration, allowing users to drill down into specific locations or time periods.***
+- Open the File: Download the data set from [The Coffee Shop Project.xlsx](the-coffee-shop-project.xlsx)
+- Use Slicers: Locate the primary Location Slicer (likely near the top) and click on Astoria, Hell's Kitchen, or Lower Manhattan to instantly filter all charts and metrics to that single location's performance. Click the "Clear Filter" icon (often a funnel with an 'x') to return to the combined view.
+- Analyze Trends: Click on a specific Month in the main revenue chart (e.g., June) to see how transaction volume, product sales, and hours of the day looked only in that month.
+- Explore Product Detail: Interact directly with the Top 15 Products table. Clicking on a product name (e.g., "Barista Espresso") will filter the rest of the dashboard to show its contribution over time and across locations.
 ### ***Resource***
 https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6
