@@ -1,5 +1,13 @@
 # Maven-Roasters-Coffee-Shop-Sales-Analysis-Dashboard
 ***End-to-end data analysis project involving data profiling, cleaning, and visualization. Built a dynamic Excel/Power BI dashboard (use the tool you chose) to track total revenue, transaction volume by hour, and top-selling products for a coffee shop franchise.***
+## **Table of Contents:**
+- [Project Overview](project.overview)
+- [Business Problem](business.problem)
+- [Dashboard](dashboard)
+- [Key Insights and Findings](key.insights.and.findings)
+- [Recommendations](recommendations)
+- [Tools Used for the project](tools.used.for.the.project)
+- [Resource](resources)
 
 ## Project Overview
 This project involves a comprehensive data analysis of transactional sales data for Maven Roasters, a coffee shop franchise in New York City (NYC).
@@ -12,7 +20,9 @@ Maven Roasters needed a clear, data-driven view of their business performance to
 |Situation| Recently became a franchise owner of Maven Roasters, a coffee shop chain with three locations in New York City.|
 |Goal|Transform collected transactional data (Jan-Jun 2023) into a dynamic dashboard for franchise owners to identify patterns, trends, and opportunities.|
 | Objectives| * Profile and prepare the raw data for analysis (ETL).<br>* Explore the data using PivotTables (Initial Analysis).<br>* Build a dynamic, user-friendly dashboard to visualize trends.|
- 
+ ## Dashboard
+ <img width="629" height="605" alt="Project dashboard" src="https://github.com/user-attachments/assets/de32253e-9a60-463e-8398-d14b0d3a66ee" />
+
 ## Key Insights and Findings
 The analysis and resulting dashboard revealed several critical insights:
 - Revenue Growth & Peaks: Total revenue saw a significant upward trend from January to June, with the highest sales volume recorded in June ($166,485.88).
@@ -33,3 +43,5 @@ Based on the analysis of the sales data, the following actionable strategies are
 - Analysis & Visualization: Microsoft Excel.
 - Data Preparation: Data cleaning, transformation, and structure were primarily handled within Excel.
 - Concepts: Dynamic Slicers, Calculated Fields, PivotTables, and Advanced Charting.
+### ***Resource***
+https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6
