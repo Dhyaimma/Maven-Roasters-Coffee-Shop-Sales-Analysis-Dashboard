@@ -7,7 +7,7 @@
 - [Key Insights and Findings](#key-insights-and-findings)
 - [Recommendations](#recommendations)
 - [Tools Used for the project](#tools-used-for-the-project)
-- [How to Navigate the Dashboard](#how-to-navigate-the-dashboard).
+- [How to Navigate the Dashboard](#how-to-navigate-the-dashboard)
 - [Resource](#resource)
 
 ## Project Overview
@@ -36,7 +36,7 @@ The analysis and resulting dashboard revealed several critical insights:
 - Busiest Days of the Week: Thursdays and Fridays are the busiest days for transactions, potentially linking to the end-of-week work cycle.
 ## Recommendations
 Based on the analysis of the sales data, the following actionable strategies are recommended to the franchise owner to optimize operations and drive revenue:
-1. Optimize Peak Hours (7 AM - 10 AM): Increase staffing and implement pre-batching of high-demand items (Coffee, Hot Chocolate) on peak days (Thursdays/Fridays) to maximize customer throughput and reduce wait times.
+1. Optimize Peak Hours (7 AM - 10 AM): Increase staffing and implement pre-batching of high-demand items (Coffee) on peak days for each location to maximize customer throughput and reduce wait times.
 2. Strategic Revenue Growth: Focus promotional efforts on the highest-revenue product, Barista Espresso, during slower afternoon periods to boost overall transaction value.
 3. Increase Transaction Size: Institute a cross-selling initiative where staff recommend top-selling food items (Pastry, Biscotti) with every coffee and tea purchase.
 4. Inventory Management: Utilize the daily and hourly sales trends to create precise inventory forecasts, minimizing waste for key high-volume products.
@@ -47,8 +47,6 @@ Based on the analysis of the sales data, the following actionable strategies are
 ### How to Navigate the Dashboard
 #### ***The dashboard is designed for interactive exploration, allowing users to drill down into specific locations or time periods.***
 - Open the File: Download the data set from [The Coffee Shop Project.xlsx](https://github.com/Dhyaimma/Maven-Roasters-Coffee-Shop-Sales-Analysis-Dashboard/blob/eac3005ec28f1190060e628ee3dab6a33dd8f2b9/The%20Coffee%20Shop%20Project..xlsx)
-- Use Slicers: Locate the primary Location Slicer (likely near the top) and click on Astoria, Hell's Kitchen, or Lower Manhattan to instantly filter all charts and metrics to that single location's performance. Click the "Clear Filter" icon (often a funnel with an 'x') to return to the combined view.
-- Analyze Trends: Click on a specific Month in the main revenue chart (e.g., June) to see how transaction volume, product sales, and hours of the day looked only in that month.
-- Explore Product Detail: Interact directly with the Top 15 Products table. Clicking on a product name (e.g., "Barista Espresso") will filter the rest of the dashboard to show its contribution over time and across locations.
+- Use Slicers: Locate the primary Location Slicer (at the top) and click on Astoria, Hell's Kitchen, or Lower Manhattan to instantly filter all charts and metrics to that single location's performance. Click the "Clear Filter" icon (the funnel-like icon with an 'x') to return to the combined view.
 ### ***Resource***
 https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6
