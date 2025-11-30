@@ -1,13 +1,13 @@
 # Maven-Roasters-Coffee-Shop-Sales-Analysis-Dashboard
 ***End-to-end data analysis project involving data profiling, cleaning, and visualization. Built a dynamic Excel/Power BI dashboard (use the tool you chose) to track total revenue, transaction volume by hour, and top-selling products for a coffee shop franchise.***
 ## **Table of Contents:**
-- [Project Overview](project.overview)
-- [Business Problem](business.problem)
-- [Dashboard](dashboard)
-- [Key Insights and Findings](key.insights.and.findings)
-- [Recommendations](recommendations)
-- [Tools Used for the project](tools.used.for.the.project)
-- [Resource](resources)
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Dashboard](#dashboard)
+- [Key Insights and Findings](#key-insights-and-findings)
+- [Recommendations](#recommendations)
+- [Tools Used for the project](#tools-used-for-the-project)
+- [Resource](#resource)
 
 ## Project Overview
 This project involves a comprehensive data analysis of transactional sales data for Maven Roasters, a coffee shop franchise in New York City (NYC).
