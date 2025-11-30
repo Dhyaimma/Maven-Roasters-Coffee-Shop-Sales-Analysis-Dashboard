@@ -13,7 +13,7 @@ Maven Roasters needed a clear, data-driven view of their business performance to
 |Goal|Transform collected transactional data (Jan-Jun 2023) into a dynamic dashboard for franchise owners to identify patterns, trends, and opportunities.|
 | Objectives| * Profile and prepare the raw data for analysis (ETL).<br>* Explore the data using PivotTables (Initial Analysis).<br>* Build a dynamic, user-friendly dashboard to visualize trends.|
  
-## Key Insights and Findings:
+## Key Insights and Findings
 The analysis and resulting dashboard revealed several critical insights:
 - Revenue Growth & Peaks: Total revenue saw a significant upward trend from January to June, with the highest sales volume recorded in June ($166,485.88).
 - Peak Operating Hours: The busiest period for transactions consistently falls between 7:00 AM and 10:00 AM, indicating a strong morning rush/commuter market. This suggests opportunities for optimizing staffing levels and preparation during these hours.
@@ -24,5 +24,12 @@ The analysis and resulting dashboard revealed several critical insights:
   - Barista Espresso: $91,406.20 (Note: Highest revenue product)
 - Busiest Days of the Week: Thursdays and Fridays are the busiest days for transactions, potentially linking to the end-of-week work cycle.
 ## Recommendations
-
-## Tools Used
+Based on the analysis of the sales data, the following actionable strategies are recommended to the franchise owner to optimize operations and drive revenue:
+1. Optimize Peak Hours (7 AM - 10 AM): Increase staffing and implement pre-batching of high-demand items (Coffee, Hot Chocolate) on peak days (Thursdays/Fridays) to maximize customer throughput and reduce wait times.
+2. Strategic Revenue Growth: Focus promotional efforts on the highest-revenue product, Barista Espresso, during slower afternoon periods to boost overall transaction value.
+3. Increase Transaction Size: Institute a cross-selling initiative where staff recommend top-selling food items (Pastry, Biscotti) with every coffee and tea purchase.
+4. Inventory Management: Utilize the daily and hourly sales trends to create precise inventory forecasts, minimizing waste for key high-volume products.
+## Tools Used for the project
+- Analysis & Visualization: Microsoft Excel.
+- Data Preparation: Data cleaning, transformation, and structure were primarily handled within Excel.
+- Concepts: Dynamic Slicers, Calculated Fields, PivotTables, and Advanced Charting.
