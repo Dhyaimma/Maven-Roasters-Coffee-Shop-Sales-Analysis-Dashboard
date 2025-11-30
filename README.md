@@ -46,7 +46,7 @@ Based on the analysis of the sales data, the following actionable strategies are
 - Concepts: Dynamic Slicers, Calculated Fields, PivotTables, and Advanced Charting.
 ### How to Navigate the Dashboard
 #### ***The dashboard is designed for interactive exploration, allowing users to drill down into specific locations or time periods.***
-- Open the File: Download the data set from [The Coffee Shop Project.xlsx](the-coffee-shop-project.xlsx)
+- Open the File: Download the data set from [The Coffee Shop Project.xlsx]([the-coffee-shop-project.xlsx](https://github.com/Dhyaimma/Maven-Roasters-Coffee-Shop-Sales-Analysis-Dashboard/commit/eac3005ec28f1190060e628ee3dab6a33dd8f2b9))
 - Use Slicers: Locate the primary Location Slicer (likely near the top) and click on Astoria, Hell's Kitchen, or Lower Manhattan to instantly filter all charts and metrics to that single location's performance. Click the "Clear Filter" icon (often a funnel with an 'x') to return to the combined view.
 - Analyze Trends: Click on a specific Month in the main revenue chart (e.g., June) to see how transaction volume, product sales, and hours of the day looked only in that month.
 - Explore Product Detail: Interact directly with the Top 15 Products table. Clicking on a product name (e.g., "Barista Espresso") will filter the rest of the dashboard to show its contribution over time and across locations.
